@@ -47,4 +47,4 @@ Although these researchers suggest multiple reasons that could explain the obser
 <strong>3.0 DATA</strong><br>
 <br>
 </p>
-![alt text](https://github.com/martinsielfeld/master_thesis_martin_sielfeld/blob/04%20Plots%20and%20Tables/02%20Schools%20in%20Santiago.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/60612360/135656390-8207ad6e-4e50-41d8-b074-e3ada0e8b659.png" width="500" height="500"></p>
