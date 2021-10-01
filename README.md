@@ -13,7 +13,7 @@
  
 1. <p align="justify"><i>Since the languae of the original document is spanish, this summay aims to describe the main results and discoveries of the master's research.</i></p>
  
-2. <p align="justify"><i>Certain unresolved issues are recognized in the final document, which are being worked on. Mentioning those that are the most relevant to address: (i) how can other similar families influence the households school preferences?, (ii) consider including interactions by socioeconomic status in the model rather than stratifying the data, (iii) Do families consider euclidean distance, street distance, or travel time when comparing alternatives?.</i></p>
+2. <p align="justify"><i>Certain unresolved issues are recognized in the final document, which are being worked on. Mentioning those that are the most relevant to address: (i) how can other similar families influence the households school preferences?, (ii) consider including interactions by socioeconomic status in the model rather than stratifying the data (comparison between groups not well achieved), (iii) Do families consider euclidean distance, street distance, or travel time when comparing alternatives?.</i></p>
 
 <p align="justify">
 <strong>SUMMARY</strong><br>
