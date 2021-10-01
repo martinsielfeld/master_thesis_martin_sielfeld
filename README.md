@@ -9,6 +9,13 @@
 <strong>Status:</strong> Approved<br>
 <strong>Score:</strong> 7.0/7.0<br>
 <br>
+<strong>Observations:</strong><br></p>
+ 
+1. <p align="justify"><i>Since the languae of the original document is spanish, this summay aims to describe the main results and discoveries of the master's research.</i></p>
+ 
+2. <p align="justify"><i>Certain unresolved issues are recognized in the final document, which are being worked on. Mentioning those that are the most relevant to address: (i) how can other similar families influence the households school preferences?, (ii) consider including interactions by socioeconomic status in the model rather than stratifying the data, (iii) Do families consider euclidean distance, street distance, or travel time when comparing alternatives?.</i></p>
+
+<p align="justify">
 <strong>SUMMARY</strong><br>
 <br>
 The literature has pointed out that home-school distance is an attribute that discourages households to consider high quality alternatives that are distant from home when the apply for enrollment. This is a problem when the educational offer is heterogeneously distributed in space, leading to having a closer school offer that is dissimilar according to the household residence. Through a discrete choice model for estimating household’s preferences, this research studies the effect of the heterogeneous distribution of schools and the inability of households to compare the entire offer on the conformation of lists of preferred alternatives for households in Santiago de Chile. The methodology used allows to estimate for each household the utility level reported by different schools with different attributes. Comparing the school that maximize the utility level for each household with that reported as most preferred in the application system, it is possible to evaluate if households are comparing optimally or are missing relevant alternatives due to lack of information. Simulations are also carried out to: contrast the existence of educational poles or deserts; contrast the distribution of attribute values by simulating the allocation process, among others. The main findings suggest that households are not able to choose optimally, which results in selecting schools that would not maximize their utility level. Given the spatial heterogeneity of the educational offer and the preferences for school attributes, communes with high (poles) and low (deserts) demand are observed. When comparing a simulation of the admission process where households can compare the entire offer with the results of the actual admission system, a significant decrease in the distance to be covered by students is observed, as also a reduction in the gap of education quality accessed by students from different socioeconomic level.<br> 
