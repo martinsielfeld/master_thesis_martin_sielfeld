@@ -46,4 +46,5 @@ Although these researchers suggest multiple reasons that could explain the obser
 <br>
 <strong>3.0 DATA</strong><br>
 <br>
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 </p>
