@@ -52,9 +52,14 @@ To study household preferences for school characteristics, this research uses pu
 <br>
 This research focuses on those 2019 applicants who applied to grades from pre-kindergarten to 1st grade in the city of Santiago. This supposes a group of 80,772 applicants, which represents 16.7% of the total applicants in 2019 and 56.6% of those residing in the city of Santiago<sup name="a1">1</sup>.<br>
 <br>
+The databases published by the Ministry of Education contain information of the students, as well as the list of schools nominated by each household and the order of preference. The available data contain information about the household’s location (longitude and latitude), grade to which it applies and a binary variable indicating whether the student is a priority student or not<sup name="a2">2</sup>. This label is assigned according to the household's socioeconomic level and is used as one of the approximations of its socioeconomic level. With the household’s location it is possible to compute the commune of residence and if the family lives in a rural or urban sector. Since perception of school characteristics may vary between households from urban and rural sectors (e.g., distance perception) and grades (e.g., older students may prefer better school quality to travel distance compared to younger students who need to be accompanied by their parents), the study focus on those students from pre-kindergarten to 1st grade who were living in the urban area of Santiago by the time they participated in the admission system. That means that, from the 483,070 students that applied to a school in 2019, 80,772 fit the described criteria.<br>
+<br>
+<strong>3.2 Schools</strong><br>
+<br>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/60612360/135656390-8207ad6e-4e50-41d8-b074-e3ada0e8b659.png" width="500" height="500"></p>
 <br>
 <p align="justify">
-<b name="f1">1.</b> Santiago includes the following urban communes: Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, Huechuraba, Independencia, La Cisterna, La Florida, La Granja, La Pintana, La Reina, Las Condes, Lo Barnechea, Lo Espejo, Lo Prado, Macul, Maipú, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Pudahuel, Quilicura, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramon, Vitacura, Puente Alto, San Bernardo and Padre Hurtado.
+<b name="f1">1.</b> Santiago includes the following urban communes: Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, Huechuraba, Independencia, La Cisterna, La Florida, La Granja, La Pintana, La Reina, Las Condes, Lo Barnechea, Lo Espejo, Lo Prado, Macul, Maipú, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Pudahuel, Quilicura, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramon, Vitacura, Puente Alto, San Bernardo and Padre Hurtado.<br>
+<b name="f2">2.</b> Label given by the government to indicate whether the student lives in conditions in which their studies are adversely affected by their socioeconomic status.
 </p>
