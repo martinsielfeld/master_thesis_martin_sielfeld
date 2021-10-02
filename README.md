@@ -61,8 +61,25 @@ Since the households are in the urban sector of Santiago, the schools that repre
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/60612360/135656390-8207ad6e-4e50-41d8-b074-e3ada0e8b659.png" width="500" height="500"></p>
 <br>
+<p align="justify">
+Given the previous literature, each school includes information about several school characteristics. Available data include: SIMCE math test score (as a proxy for academic quality), monthly cost of co-payment<sup name="a3">3</sup>, proportion of priority students (as a continuous proxy for the school's socioeconomic composition), an index of whether the school has differential education<sup name="a4">4</sup> and another if it has religious education. Finally, the longitude and latitude of each alternative is included. This information allows to calculate the distance between each household and available school.<br>
 <br>
+<strong>3.3 Center of Territorial Intelligence</strong><br>
+<br>
+As an alternative measure of using priority students label as a proxy of household’s socioeconomic level, the socioeconomic percentile of household’s neighborhood from 2012 is used. The data comes from an index designed by the Center of Territorial Intelligence (“Centro de Inteligencia Territorial”), being part to the Adolfo Ibáñez University. For each block, this indicator considers the educational level of the head of the family, the house quality, and the acquired goods for its preparation.<br>
+<br>
+Since the household’s location has a random error level between 50 to 300 meters from the real location, the percentile of those blocks whose centroid is within a radius of 300 meters from the reported location are weighted. This allows an approximation to the family socioeconomic through spatial information.<br>
+<br>
+<strong>3.4 Statistic summary</strong><br>
+<br>
+Table 1 shows the characteristics and definitions of the variables to be used in this research. Table 2 shows a statistical summary of household’s previously described variables. Regarding the approximations of the household’s socioeconomic level, a proportion of 35.5% priority students are observed. On the other hand, the average socioeconomic percentile of the household’s neighborhood (within a radius of 300 meters) is 58.2%. It should be noted that according to the neighborhood’s socioeconomic percentile (external source to the one provided in the admission process), 16 applicants are lost due to lack of information.<br>
+<br>
+Regarding the characteristics of the available offer, Table 3 shows a statistical summary with the variables to be consider as relevant by the households. It is seen that 29.1% of these have an educational curriculum with religious education, while only 4% have differential education. Although more than 75% of the available schools do not have co-payment (since a part of these are municipal schools and another are private subsidized schools without co-payment), the average of $11,075 pesos observed is influenced by a significant co-payment amounts in the upper part of the distribution. For the case of the proportion of priority students within the schools, the distribution tends to a normal one with a mean of 46.1% of priority students and a standard error of 18.2 percentage points. Finally, the distribution of the SIMCE math test score has a slight positive bias to the right, concentrating the bulk of schools in values below the mean (252 points).<br>
+<br>
+</p>
 <p align="justify">
 <b name="f1">1.</b> Santiago includes the following urban communes: Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, Huechuraba, Independencia, La Cisterna, La Florida, La Granja, La Pintana, La Reina, Las Condes, Lo Barnechea, Lo Espejo, Lo Prado, Macul, Maipú, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Pudahuel, Quilicura, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramon, Vitacura, Puente Alto, San Bernardo and Padre Hurtado.<br>
-<b name="f2">2.</b> Label given by the government to indicate whether the student lives in conditions in which their studies are adversely affected by their socioeconomic status.
+<b name="f2">2.</b> Label given by the government to indicate whether the student lives in conditions in which their studies are adversely affected by their socioeconomic status.<br>
+<b name="f3">3.</b> Subsidized private schools are allowed to charge an extra monthly payment to households, so that these schools can have more financial resources.<br>
+<b name="f4">4.</b> Differential teaching refers to whether classes are taught to only one gender (either men or women). The alternative corresponds to mixed education, where classes are taught to both groups in the same classroom.<br>
 </p>
