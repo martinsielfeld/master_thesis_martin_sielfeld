@@ -56,8 +56,11 @@ The databases published by the Ministry of Education contain information of the 
 <br>
 <strong>3.2 Schools</strong><br>
 <br>
+Since the households are in the urban sector of Santiago, the schools that represent the set of available alternatives to be chosen by them are limited to a similar territorial unit. This means, among other things, that households applying to schools in other regions or distant from the city are not considered in this study. However, it is possible to argue that households close to the urban limits can apply to nearby schools outside of said territorial unit (e.g., rural areas or suburbs). Consequently, and since on average students do not usually travel more than 2 kilometers away from home, schools that are within a maximum of 5 kilometers from the urban border are also included. Figure 1 plot the previous idea, where a buffer around the city of Santiago includes all the schools that are considered within the set of available alternatives. Given this, and since the research only consider those schools that dictate the grades from pre-kindergarten to 1st grade, the set of available alternatives in the school market corresponds to 1,211 establishments.<br>
+<br>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/60612360/135656390-8207ad6e-4e50-41d8-b074-e3ada0e8b659.png" width="500" height="500"></p>
+<br>
 <br>
 <p align="justify">
 <b name="f1">1.</b> Santiago includes the following urban communes: Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, Huechuraba, Independencia, La Cisterna, La Florida, La Granja, La Pintana, La Reina, Las Condes, Lo Barnechea, Lo Espejo, Lo Prado, Macul, Maipú, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Pudahuel, Quilicura, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramon, Vitacura, Puente Alto, San Bernardo and Padre Hurtado.<br>
