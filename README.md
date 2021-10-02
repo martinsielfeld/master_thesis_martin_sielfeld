@@ -46,5 +46,15 @@ Although these researchers suggest multiple reasons that could explain the obser
 <br>
 <strong>3.0 DATA</strong><br>
 <br>
+To study household preferences for school characteristics, this research uses public and administrative data from the application process in new admission system (SAE for now on) provided by the national Ministry of Education. Households and Schools location is available, as well as attributes of students and alternatives. To address household’s socioeconomic heterogeneity, this research uses a block level Socioeconomic Index (“Índice Socioeconómico”) from the Adolfo Ibáñez University.<br>
+<br>
+<strong>3.1 Households and students</strong><br>
+<br>
+This research focuses on those 2019 applicants who applied to grades from pre-kindergarten to 1st grade in the city of Santiago. This supposes a group of 80,772 applicants, which represents 16.7% of the total applicants in 2019 and 56.6% of those residing in the city of Santiago<sup name="a1">1</sup>.<br>
+<br>
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/60612360/135656390-8207ad6e-4e50-41d8-b074-e3ada0e8b659.png" width="500" height="500"></p>
+<br>
+<p align="justify">
+<b name="f1">1.</b> Santiago includes the following urban communes: Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, Huechuraba, Independencia, La Cisterna, La Florida, La Granja, La Pintana, La Reina, Las Condes, Lo Barnechea, Lo Espejo, Lo Prado, Macul, Maipú, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Pudahuel, Quilicura, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramon, Vitacura, Puente Alto, San Bernardo and Padre Hurtado.
+</p>
