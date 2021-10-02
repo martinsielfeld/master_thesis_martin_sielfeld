@@ -79,6 +79,9 @@ Table 1 shows the characteristics and definitions of the variables to be used in
 <p align="justify">
 Regarding the characteristics of the available offer, Table 3 shows a statistical summary with the variables to be consider as relevant by the households. It is seen that 29.1% of these have an educational curriculum with religious education, while only 4% have differential education. Although more than 75% of the available schools do not have co-payment (since a part of these are municipal schools and another are private subsidized schools without co-payment), the average of $11,075 pesos observed is influenced by a significant co-payment amounts in the upper part of the distribution. For the case of the proportion of priority students within the schools, the distribution tends to a normal one with a mean of 46.1% of priority students and a standard error of 18.2 percentage points. Finally, the distribution of the SIMCE math test score has a slight positive bias to the right, concentrating the bulk of schools in values below the mean (252 points).<br>
 <br>
+<p align="center"><img src="https://user-images.githubusercontent.com/60612360/135704183-ff21ae10-a73b-4f0a-9416-74452f0dc3cc.png" width="900" height="200"></p>
+<p align="justify">
+<br>
 </p>
 <p align="justify">
 <b name="f1">1.</b> Santiago includes the following urban communes: Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, Huechuraba, Independencia, La Cisterna, La Florida, La Granja, La Pintana, La Reina, Las Condes, Lo Barnechea, Lo Espejo, Lo Prado, Macul, Maipú, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Pudahuel, Quilicura, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramon, Vitacura, Puente Alto, San Bernardo and Padre Hurtado.<br>
