@@ -1,5 +1,5 @@
 <p align="justify">
-<b>CONSEQUENCES OF THE SPATIAL HETEROGENEITY OF THE EDUCATIONAL SUPPLY AND LACK OF INFORMATION IN A SCHOOL CHOICE SYSTEM</b><br>
+<b>CONSEQUENCES OF THE EDUCATIONAL SPATIAL HETEROGENEITY AND HOUSEHOLDS LACK OF INFORMATION IN A SCHOOL CHOICE SYSTEM</b><br>
 <i>Master in Economics Thesis</i><br>
 <br>
 <strong>Author:</strong> Martín Domingo Sielfeld O'Ryan<br>
@@ -81,6 +81,13 @@ Regarding the characteristics of the available offer, Table 3 shows a statistica
 <br>
 <p align="center"><img src="https://user-images.githubusercontent.com/60612360/135704236-7e8d5099-ed59-48a2-b040-531fdd1d1c8f.png" width="900" height="300"></p>
 <p align="justify">
+<br>
+<strong>4.0 THEORETICAL AND EMPIRICAL STRATEGY</strong><br>
+<br>
+Following the Random Utility Model literature (McFadden, 1977), this research seeks to study how residential location conditions the characteristics that households indicate as most preferred. By estimating household preferences for educational characteristics, it is possible to construct a utility function that allows to sort schools according school attributes. The empirical approach consists of two specifications of the utility function, where a Conditional Logit of the household’s first preference indicated in the SAE applications is contemplated. By including interactions with distance and stratifying by the family’s socioeconomic level, the study test if both the space and the socioeconomic level influence preferences for school characteristics.<br>
+<br>
+<strong>4.1 Theoretical framework</strong><br>
+<br>
 <br>
 </p>
 <p align="justify">
