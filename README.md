@@ -1,4 +1,6 @@
 <p align="justify">
+<i>(Work in progress)</i><br>
+<br>
 <b>CONSEQUENCES OF THE EDUCATIONAL SPATIAL HETEROGENEITY AND HOUSEHOLDS LACK OF INFORMATION IN A SCHOOL CHOICE SYSTEM</b><br>
 <i>Master in Economics Thesis</i><br>
 <br>
